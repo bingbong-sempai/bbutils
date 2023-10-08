@@ -1,0 +1,5 @@
+[project]
+name = "bbutils"
+version = "0.1"
+description = "Bingbong's utility functions."
+authors = [{name = "Bingbong"}]
