@@ -1,7 +1,3 @@
-[build-system]
-requires = ["setuptools"]
-build-backend = "setuptools.build_sdist"
-
 [project]
 name = "bbutils"
 version = "0.1"
